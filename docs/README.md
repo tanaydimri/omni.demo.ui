@@ -1,3 +1,5 @@
+[NOT OFFICIAL FROM NVIDIA]
+
 This is a demo extension with UI to understand how Omniverse Extension are structured.
 
 To run this demo extension, put this in one of your Omniverse extension search paths. I prefere to put it under: "..\Documents\Kit\shared\exts" Then search for "demo" in your extensions tab, in any of the Omniverse applications.
