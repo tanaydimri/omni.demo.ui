@@ -1,4 +1,4 @@
-**[NOT OFFICIAL FROM NVIDIA]**
+**[NOT OFFICIALLY FROM NVIDIA]**
 
 This is a demo extension with UI to understand how Omniverse Extension are structured.
 
